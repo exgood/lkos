@@ -1,0 +1,15 @@
+body {
+    overflow: hidden;
+    background-color: black;
+}
+.container {
+    width: 666px;
+    height: 666px;
+    margin: 0px auto;
+    border: 6px solid red;
+    background-color: white;
+    position: relative; 
+}
+.hideDemon {
+    visibility: hidden;
+}

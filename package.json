@@ -1,0 +1,16 @@
+{
+  "name": "lkos",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-html": "node htmlCreator.js"
+  },
+  "author": "Ex Good",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "js-beautify": "^1.6.4",
+    "node-jsdom": "^3.1.5"
+  }
+}
