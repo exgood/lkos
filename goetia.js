@@ -1,3 +1,5 @@
+"use strict";
+
 var allDemons = document.querySelectorAll('.hideDemon');
 var firstImage = document.createElement('img');
 var container = document.querySelector('.container');
